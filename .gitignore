@@ -1,0 +1,7 @@
+img/
+jsa/
+risk-assessment/
+node_modules/
+jspm_packages/
+*.pdf
+.env
