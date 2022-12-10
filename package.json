@@ -14,7 +14,7 @@
     "dropbox": "^4.0.26",
     "dropbox-fs": "^0.3.1",
     "dropbox-v2-api": "^2.4.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-form-data": "^2.0.8",
     "fs": "0.0.1-security",
     "isomorphic-fetch": "^2.2.1",
